@@ -1,2 +1,0 @@
-* Option to not translate automatically but manually
-* Scroll to top button

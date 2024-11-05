@@ -1,3 +1,0 @@
-* Translate text by selecting or sharing it to Translate You
-* Fixed major issues when changing the translation provider
-* French translation by @Ilithy <3

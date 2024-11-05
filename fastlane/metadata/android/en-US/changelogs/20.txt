@@ -1,1 +1,0 @@
-* Support for opening images with the app

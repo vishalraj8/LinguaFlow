@@ -1,4 +1,5 @@
 *.iml
+.fastlane
 .gradle
 /local.properties
 /.idea/caches
@@ -16,4 +17,3 @@ local.properties
 app/release
 app/standard/release
 app/libre/release
-.fastlane

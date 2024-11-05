@@ -44,4 +44,4 @@
 4. Run the app on an Android emulator or physical device.
 
 ## License
-This project is licensed under the MIT License.
+GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007

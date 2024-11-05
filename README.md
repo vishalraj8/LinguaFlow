@@ -1,5 +1,6 @@
 # LinguaFlow
 
+[App Logo](https://www.flaticon.com/free-icons/translate) 
 **LinguaFlow** is a simple and intuitive language translation application designed to offer quick translations in a clean, Android 13-inspired interface. Currently intended for local use, LinguaFlow aims to provide users with an effortless and automated language translation experience without the need for a backend.
 
 ---
